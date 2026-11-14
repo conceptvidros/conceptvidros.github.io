@@ -1,2 +1,4 @@
-# conceptvidros.github.io
-Endereço antigo do sistema da Concept Vidros: leva pra concept-vidros.web.app
+# Concept Vidros
+
+O sistema da Concept Vidros fica em https://concept-vidros.web.app/ (Firebase Hosting).
+Este endereço só leva para lá.
